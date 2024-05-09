@@ -118,6 +118,5 @@ EOF
    systemctl restart mysql
    systemctl restart apache2
    
-   
    SHELL
 end
